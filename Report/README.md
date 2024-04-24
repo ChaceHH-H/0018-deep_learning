@@ -1,6 +1,7 @@
 # Fruit freshness identification
 
-Huanchao Hong, https://github.com/ChaceHH-H/0018-deep_learning
+Huanchao Hong, https://github.com/ChaceHH-H/0018-deep_learning  
+https://studio.edgeimpulse.com/studio/363592
 
 ## Introduction
 The purpose of this project is to develop a system based on Arduino Nano 33 BLE Sense and ov7670 camera that can identify and classify the freshness of fruits in real time and determine whether the fruits have become moldy or rotten.  
